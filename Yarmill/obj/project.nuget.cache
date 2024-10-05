@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FwskXdmfSnA=",
+  "success": true,
+  "projectFilePath": "/Users/filippatrman/Documents/Skola/PRG/C#/Yarmill/Yarmill/Yarmill.csproj",
+  "expectedPackageFiles": [
+    "/Users/filippatrman/.nuget/packages/htmlagilitypack/1.11.66/htmlagilitypack.1.11.66.nupkg.sha512"
+  ],
+  "logs": []
+}
